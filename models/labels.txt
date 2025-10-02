@@ -1,0 +1,7 @@
+0	Eczema
+1	Melanoma
+2	Acne
+3	Rosacea
+4	Psoriasis
+5	Vitiligo
+6	Wart
